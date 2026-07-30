@@ -40,7 +40,7 @@
 
   <!-- Interactive Skill Icons Grid -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,github,vscode&perline=10" alt="Tech Stack Icons"/>
+    <img src="https://skillicons.dev/icons?i=cpp,c,github,vscode&perline=10" alt="Tech Stack Icons"/>
   </a>
 
 </div>
