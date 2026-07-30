@@ -78,31 +78,8 @@
 
 </details>
 
----
 
-### 📊 GitHub Statistics
 
-<div align="center">
-
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="GitHub Stats" width="410" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" width="340" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=onedark&hide_border=true" alt="GitHub Streak" width="760" />
-
-</div>
-
----
 
 
 
