@@ -71,5 +71,5 @@
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ • Replace <code>dreamcodermax</code> with your actual GitHub username!</sub>
+  <sub>Designed with ❤️ • <code>Sanjida Hossain </code> </sub>
 </div>
