@@ -104,31 +104,7 @@
 
 ---
 
-### 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Stars |
-| :--- | :--- | :--- | :--- |
-| ⚡ **[Project Alpha](https://github.com/YOUR_GITHUB_USERNAME/project-alpha)** | High-performance dashboard application with real-time updates. | `React` `TypeScript` `Node.js` | [![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/project-alpha?style=social)](https://github.com/YOUR_GITHUB_USERNAME/project-alpha) |
-| 🤖 **[AI Bot Utility](https://github.com/YOUR_GITHUB_USERNAME/ai-bot-utility)** | Smart automation tool & natural language workflow pipeline. | `Python` `FastAPI` `Docker` | [![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/ai-bot-utility?style=social)](https://github.com/YOUR_GITHUB_USERNAME/ai-bot-utility) |
-| 📦 **[Dev Toolkit CLI](https://github.com/YOUR_GITHUB_USERNAME/dev-toolkit-cli)** | Lightweight developer utility CLI with zero external dependencies. | `TypeScript` `Node.js` | [![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/dev-toolkit-cli?style=social)](https://github.com/YOUR_GITHUB_USERNAME/dev-toolkit-cli) |
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Profile Trophies" />
-</div>
-
----
-
-### 💬 Dev Quote
-
-<div align="center">
-  <a href="https://github.com/ravin-d-27/readme-daily-quotes">
-    <img src="https://readme-daily-quotes.vercel.app/api?theme=onedark&card_width=600" alt="Daily Dev Quote" />
-  </a>
-</div>
 
 ---
 
